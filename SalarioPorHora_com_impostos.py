@@ -6,5 +6,5 @@ PagarSindicato = SalarioBruto*(5.0/100.0)
 SalarioLiquido = SalarioBruto - InssPagar - PagarSindicato
 print(f"Salario Bruto: R${round(SalarioBruto,2)}")
 print(f"IR (11%) : R${float(InssPagar)}")
-print(f"Sindicato ( 5%) : R${float(PagarSindicato)}")
+print(f"Sindicato (5%) : R${float(PagarSindicato)}")
 print(f"Salário Liquido : R${float(SalarioLiquido)}")
