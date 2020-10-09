@@ -63,7 +63,7 @@ Faça um Programa para uma loja de tintas. O programa deverá pedir o tamanho em
 nforme ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
 1. comprar apenas latas de 18 litros;
 1. omprar apenas galões de 3,6 litros;
-1.0 misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+1. Misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
 
 ### Exercicio 18:
 Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
